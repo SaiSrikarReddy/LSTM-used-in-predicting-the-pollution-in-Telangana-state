@@ -1,7 +1,7 @@
 # LSTM-used-in-predicting-the-pollution-in-Telangana-state
-Performance Metric is Mean Absolute error(MAE)
+Performance Metric is Mean Absolute error(MAE)<br>
 Overview of the dataset is as follows:<br>
-1) stationcode<br>
+1)stationcode<br>
 2)SO2 <br>
 3)NO2<br>
 4)PM10<br>
@@ -15,7 +15,7 @@ Then I used another baseline model Simple Moving Averages<br>
 Atlast using LSTM the model is trained i.e, <br>
 we cannot train the model as usual but we need to convert the dataset into supervised dataset so I used a method to <br>
 overcome the constraint<br>
-Atleast the error was about ~1.5~2.5 MAE
+Atleast the error was about 1.5-2.5(approx.) MAE
 
 Thank You<br>
 Hope You enjoy by reading the ipython notebook to get the whole clarity of the project<br>
