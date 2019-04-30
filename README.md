@@ -1,6 +1,6 @@
 # LSTM-used-in-predicting-the-pollution-in-Telangana-state
 The dataset I used is up there as "dataframe.csv"<br>
-Performance Metric is Mean Absolute error(MAE)<br>
+Performance Metric is Mean Absolute error(MAE) because I removed Outliers<br>
 Overview of the dataset is as follows:<br>
 1)stationcode<br>
 2)SO2 <br>
