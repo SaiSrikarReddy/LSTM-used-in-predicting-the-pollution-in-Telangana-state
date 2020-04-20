@@ -2,12 +2,12 @@
 The dataset I used is up there as "dataframe.csv"<br>
 Performance Metric is Mean Absolute error(MAE) because I removed Outliers<br>
 Overview of the dataset is as follows:<br>
-1)stationcode<br>
-2)SO2 <br>
-3)NO2<br>
-4)PM10<br>
-5)PM2.5 <br>
-6)date e.t.c<br>
+* stationcode<br>
+* SO2 <br>
+* NO2<br>
+* PM10<br>
+* PM2.5 <br>
+* date e.t.c<br>
 Sorted the dataset with date  <br>
 Then I calculated Air Quality Index(AQI) with SO2,NO2, PM10 that is known as Normalization in our terminology.<br>
 Then I removed outliers<br>
