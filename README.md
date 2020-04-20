@@ -19,7 +19,7 @@ overcome the constraint<br>
 Atleast the error was about 1.5-2.5(approx.) MAE
 
 Thank You<br>
-Hope You enjoy by reading the ipython notebook to get the whole clarity of the project<br>
+Hope You enjoy by reading the ipython notebook to get a complete view of project<br>
 
 INSTALLATION GUIDE
 1.	At first we need to go to Python official page and need to Install python 3.6+ version which ever possible and Add python to path.<br>
