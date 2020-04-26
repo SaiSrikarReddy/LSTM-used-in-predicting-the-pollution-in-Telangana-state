@@ -30,6 +30,6 @@ INSTALLATION GUIDE
 * pip3 install sklearn.
 * pip3 install –upgrade tensorflow.
 * pip3 install keras.<br>
-4.	After installing these packages we need to open Jupyter Notebook and open the PREDICTING_AIR_QUALITY_USING_TIME_SERIES_ANALYSIS.ipynb and Click on run all cells on top left corner.<br>
+4.	After installing these packages we need to open Jupyter Notebook and open the PREDICTING_AIR_QUALITY_USING_TIME_SERIES_ANALYSIS.ipynb and Click on run all cells.<br>
 5.	The outputs are displayed on the next line of each cell.<br>
 
